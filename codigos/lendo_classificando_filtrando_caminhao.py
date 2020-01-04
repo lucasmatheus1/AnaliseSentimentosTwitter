@@ -127,9 +127,10 @@ print (rts_ord[-2])
 print (rts_ord[-3])
 '''
 
-''' 
-CASO QUEIRA FILTRAR OUTRAS COLUNAS COMO "Localizacao" BASTA FAZER: 
 
+#CASO QUEIRA FILTRAR OUTRAS COLUNAS COMO "Localizacao" BASTA FAZER: 
+
+'''
 dados_copia['Localizazao'], ...
 
 '''
