@@ -25,4 +25,8 @@ Com isso, foi possível realizar a filtragem dos dados para decisões futuras.
 Desenvolver uma estrutura melhor para a análise.
 
 
-###### Referência: [Minerando Dados - Análise de sentimentos twitter como fazer](http://minerandodados.com.br/index.php/2017/03/15/analise-de-sentimentos-twitter-como-fazer/)
+###### Referências: [Minerando Dados - Análise de sentimentos twitter como fazer](http://minerandodados.com.br/index.php/2017/03/15/analise-de-sentimentos-twitter-como-fazer/)
+
+###### Créditos: 
+
+Gif from _giphy.com_
