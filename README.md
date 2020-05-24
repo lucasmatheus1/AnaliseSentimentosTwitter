@@ -1,3 +1,36 @@
+## Analysis of feelings - Twitter
+> Sentiment Analysis Project - Twitter
+
+![](media/analysisdata.gif)
+
+The project was carried out during the discipline of Statistics Applied to Computing in the Computer Engineering course.
+
+### Idea
+
+At the time we are Twitter is one of the largest social networks, a place that many people interact leaving their opinions. Observing this, the idea of analyzing this data is very viable, since better products can be launched, through the analysis.
+
+> Remember: It is important to install the libraries (modules - Python).
+
+### Data extraction step
+Data extraction was done using the Tweepy library of the Python programming language. All data were collected and inserted in a csv file for further analysis.
+
+### Data filtering step
+
+We decided to use the Pandas and SkLearn library, also from the Python programming language. With the use of sklearn it was possible to implement Naive Bayes, a well-known and applicable algorithm.
+
+As a result, it was possible to filter the data for future decisions.
+
+### Future works
+
+Develop a better structure for the analysis.
+
+
+###### References: [Mining Data - Analysis of feelings twitter how to do](http://minerandodados.com.br/index.php/2017/03/15/analise-de-sentimentos-twitter-como- do/)
+
+###### Credits: Gif from [giphy.com](https://giphy.com/)
+
+> Português
+
 ## Análise de sentimentos - Twitter
 > Projeto sobre Análise de Sentimentos - Twitter
 
