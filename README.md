@@ -24,8 +24,7 @@ As a result, it was possible to filter the data for future decisions.
 
 Develop a better structure for the analysis.
 
-
-###### References: [Mining Data - Analysis of feelings twitter how to do](http://minerandodados.com.br/index.php/2017/03/15/analise-de-sentimentos-twitter-como- do/)
+###### References: [Mining Data - Analysis of feelings twitter how to do](http://minerandodados.com.br/index.php/2017/03/15/analise-de-sentimentos-twitter-como-do/)
 
 ###### Credits: Gif from [giphy.com](https://giphy.com/)
 
